@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Savior</string>
+    <string name="about">Developed by Fsome Team</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_pass">Password</string>
+    <string name="text_sign_in">Sign in</string>
+    <string name="text_sign_up">Sign up for Savior</string>
+    <string name="forgot_pass">I forgot password</string>
+    <string name="have_acc">Already registered?</string>
+    <string name="alert_not_match_pass">Passwords don\'t match!</string>
+    <string name="alert_wrong_sign_in">Wrong Phone number or Password!</string>
+    <string name="alert_exist_acc">Used Phone Number!</string>
+
+    <string name="fn_sign_out">Sign Out</string>
+    <string name="fn_report">Report Problem</string>
+    <string name="fn_history">View History</string>
+    <string name="fn_detail_acc">Your Account</string>
+
+
+</resources>
